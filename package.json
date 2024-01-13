@@ -1,0 +1,19 @@
+{
+  "name": "discord-js-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "description": "",
+  "devDependencies": {
+    "eslint": "^8.56.0",
+    "eslint-config-google": "^0.14.0"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.3.1"
+  }
+}
